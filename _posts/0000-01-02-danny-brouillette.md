@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I wonder as I wander and wander as I wonder. 
 Use the left arrow to go back!
